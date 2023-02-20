@@ -3,33 +3,33 @@
 Repository Ini Berisi Pengalaman Belajar di Dicoding
 
 
-**14 Juni 2021**  
+**16 Februari 2023**  
 
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+Belajar kelas Git dalam GitHub. (Progres 14%)
 
-  * Belajar tentang apa itu Java dan alasan menggunakannya.
+  * Belajar supaya mengerti apa itu Git dan GitHub.
 
-  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+  * Blajar apa manfaatnya dalam mengelola data atau kode.
 
 
-**15 Juni 2021**  
+**17 Februari 2023**  
 
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+Belajar kelas kelas Git dalam GitHub. (Progres 42%)
 
-  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+  * Belajar dasar-dasar pengelolaan data atau kode dengan Git, seperti membuat repository, membuat berkas, git commit, dan git checkout.
+  
+  * Belajar mengenai dasar-dasar Git melalui sebuah studi kasus.
 
-  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
+**20 Februari 2023**  
 
-  * Belajar tipe data koleksi, seperti list, set, dan map.
+Belajar kelas Git dalam GitHub. (Progres 100%)
 
-**20 Juni 2021**  
+  * Belajar konsep branching di dalam Git, akan mempelajari juga merging dan menyelesaikan conflict.
 
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
+  * Belajar bagaimana cara berkolaborasi dengan tim lain pada repository yang sama seperti melakukan forking, squashing changes, dan code reviews. 
 
-  * Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
+  * Berlatih meningkatkan pengetahuan dalam berkolaborasi dengan tim seperti membuat repository baru, menyalin repository, dan studi kasus menangani pull request pada sebuah repository aktif di GitHub. 
 
-  * Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting. 
-
-  * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
-
+  * Belajar penggunaan GitHub sebagai portofolio dengan latihan membuat readme yang dapat dimanfaatkan sebagai portofolio dalam berkarier.
+  
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
